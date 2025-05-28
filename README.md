@@ -55,13 +55,13 @@
 <br>
 <br>
 
-<div align="Center">
+---
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| -------|
-| <a href="mailto:alexander.guo@mail.utoronto.ca"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
+### 🔗 &nbsp;Contact Me
 
-</div>
+<div align="center">
+<a href="mailto:alexander.guo@mail.utoronto.ca"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alexguo2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--
 **AlexGuo43/AlexGuo43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
