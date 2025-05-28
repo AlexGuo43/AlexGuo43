@@ -12,8 +12,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="Center">
 <h1>Operating Systems</h1>
@@ -22,7 +20,6 @@
 
 </div>
 
-<br>
 <br>
 
 | Snake Eating Contributions in the last year |
