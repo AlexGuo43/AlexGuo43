@@ -41,7 +41,7 @@
 <div align="Center">
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
+| -------|
 | <a href="mailto:alexander.guo@mail.utoronto.ca"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
 
 </div>
