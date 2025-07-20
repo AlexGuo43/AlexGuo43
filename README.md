@@ -45,9 +45,9 @@
 
 <div align="Center">
 
-  | Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+  | Most Used Languages |
+  | ------------------- |
+  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGuo43&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
